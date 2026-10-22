@@ -31,6 +31,7 @@ Requirements for the physical case of the OpenDAP T1: core with the basic back c
 | CASE-025 | The plain back cover (when no HAT case is fitted) shall snap on. | must | Confirmed |
 | CASE-026 | Faceplate controls shall not send raw signals: the faceplate interface shall standardize binary commands that a DAP needs. | must | Moved |
 | CASE-027 | The command set shall have a well-standardized core that is not minimal, plus reserved space for new commands. | must | Moved |
+| CASE-028 | All mechanics, materials and finishes shall be producible as prototypes through PCBWay's services as far as possible (CNC machining, 3D printing, sheet metal, injection moulding, anodising and other finishes), within the processes PCBWay publishes. | must | Confirmed |
 
 ## Open questions
 
