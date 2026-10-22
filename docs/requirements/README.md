@@ -24,7 +24,7 @@ Requirements for the physical case of the OpenDAP T1: core with the basic back c
 | CASE-018 | The faceplate shall be held by four M1.6 screws from the back. | should | Withdrawn |
 | CASE-019 | The battery shall be a catalog Li-Po cell (654060 size, about 1,950 mAh / 7.2 Wh), with its protection on the board. | should | Withdrawn |
 | CASE-020 | The first cases shall be made of a polymer (PC or ABS). | must | Confirmed |
-| CASE-021 | The default finish shall be a graphite-colored polymer with a grip texture. | must | Confirmed |
+| CASE-021 | The default finish shall be a graphite-colored polymer with a grip texture. | should | Confirmed |
 | CASE-022 | Later material options: crystal clear, carbon and anodized aluminum. | should | Confirmed |
 | CASE-023 | The Action button shall have a deeper travel and a clearer click; the other buttons need no special click or travel. | must | Moved |
 | CASE-024 | The faceplate, the board and the device-side piece of the HAT case (when fitted) shall be screwed in place. | must | Confirmed |
@@ -40,6 +40,7 @@ Requirements for the physical case of the OpenDAP T1: core with the basic back c
 
 ## Context
 
+- CASE-021 is should since 2026-10-22 ([priority audit](https://github.com/opendap-project/t1/blob/main/docs/research/2026-10-requirement-priorities.md)): a colour and texture do not decide the promise.
 - CASE-012 to CASE-019: Adopted from the earlier experiments on 2026-10-21 as **Draft**: consistent with the decisions already taken and with the product philosophy, pending the maintainers' confirmation. Part availability still has to be checked against the sourcing rule (T1-010).
 - Experiment enclosure materials: PC-GF30 core, aluminum option with antenna windows. Not adopted yet.
 - Withdrawn on 2026-10-21 after the [experiment review](https://github.com/opendap-project/t1/blob/main/docs/research/2026-10-experiment-review.md): CASE-013, CASE-014, CASE-015, CASE-016, CASE-017, CASE-018, CASE-019.
