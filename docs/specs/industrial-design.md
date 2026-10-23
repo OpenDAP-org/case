@@ -29,7 +29,7 @@ Do not make the device look machined from metal unless the construction is metal
 | Faceplate surround | Smooth dark polymer | Visual continuity with the display |
 | Selected accents | Satin or anodised | Limited contrast |
 | Light guides (status LED, FPT-003) | Translucent polymer | Controlled illumination |
-| Buttons | Textured or satin polymer; Action in the orange accent | Tactile differentiation (§3) |
+| Buttons | Volume and Main in silver-finished polymer (metallic paint under a satin clear coat); Action in the orange accent | Tactile differentiation (§3) |
 
 ### 1.2 Textures
 
@@ -71,7 +71,7 @@ Seen from the front:
 | Left, below Action | **Volume +** and **Volume −** (T1-014) | Two half-capsules: together they form one capsule split across the middle, each half with a rounded outer end and a flat inner edge at the split, operated as two separate buttons. Not a rocker. |
 | Right | **Main (power)** (T1-015) | A taller capsule with horizontal ribs for touch identification. |
 
-Everything is graphite except Action.
+Volume + / − and Main are silver-finished plastic: a metallic silver paint under a satin clear coat on the polymer cap, with the + and − reliefs in graphite (maintainers, 2026-10-23). Action stays in the orange accent; the body stays graphite.
 
 ### 3.1 Button groups
 
